@@ -1,0 +1,44 @@
+ {
+     "documents": [
+         {
+             "id": "1",
+             "text": "Donald Trumps anti-immigration stance threatens the heart of American innovation Silicon Valley is terrified of Trump President-elect Donald Trump is causing a stir in Silicon Valley. "
+             },
+        {
+            "id":"2",
+            "text": "Cities Defend Immigration Sanctuary Policies Under Fire by Donald Trump Democratic mayors in New York, Chicago and Los Angeles, among others, say they will challenge any administration crackdown"
+        },
+        {
+            "id" : "3",
+            "text" : "Entrepreneurs say they need more, not fewer, foreign workers. The U.S. tech sector was broadly opposed to the candidacy of Donald Trump, motivated by concerns from data privacy to telecom regulation. But the biggest concern may have been the potential impact of Trump’s immigration stance on tech staffing."
+        },
+        {
+            "id" : "4",
+            "text" : "Donald Trump’s extraordinary election as president of the United States defied all odds and surprised even some of his most ardent supporters. Those concerned with immigration are struggling to assess the consequences that will follow based on his platform and Republican control of both the Senate and the House."
+        },
+        {
+            "id" : "5",
+            "text" : "That’s literally impossible. To deport as many immigrants as he wants to, he’s going to have to scoop up a lot of people who aren’t criminals at all. If you take President-elect Donald Trump at his word, according to what he told 60 Minutes’ Lesley Stahl in his first interview since the election, the overwhelming majority of unauthorized immigrants in the US have nothing to fear from his administration."
+        },
+        {
+            "id": "6",
+            "text" : "We need comprehensive immigration reform with a pathway to full and equal citizenship.If we claim we are for family, then we have to pull together and resolve the outstanding issues around our broken immigration system. The American people support comprehensive immigration reform not just because it’s the right thing to do—and it is—but because they know it strengthens families, strengthens our economy, and strengthens our country. We can’t wait any longer for a path to full and equal citizenship. "
+        },
+        {
+            "id" : "7",
+            "text" : "Trump has said Mexican immigrants are murderers and rapists and has called for a ban on immigrants seeking refuge from terrorism in their native countries. His talk of building a wall along the Mexican border and having Mexico pay for it has been a huge applause line at his rallies and events."
+        },
+        {
+            "id" : "8",
+            "text" :"Clinton says she supports new immigration legislation that would create a path to citizenship. Clinton also wants Congress to get rid of the 3- and 10-year bars, the time limits on undocumented immigrants who leave the country as part of a process to legalize their status are expected to stay away from the United States before returning legally. Clinton argues that families in which members have different legal statuses are confronted with a decision to separate and go back to their native countries in order to fix their status."
+        },
+        {
+            "id" : "9",
+            "text" : "Everything You Need to Know About Hillary Clinton's Immigration Plans. With his self-immolating campaign to make America great again, Donald Trump has put a lot of effort into make immigration one of, if not the biggest issue in the 2016 presidential race. Nearly every time the likely Republican candidate opens his mouth, hes promising Americans he'll build a Trump Wall along the southern border (and make Mexico pay for it), ban Muslims and birthright citizenship, and arm a militarized deportation force—among other things. At this point, Trump basically has a monopoly on the issue, hogging the spotlight while reporters chase their tails, explaining once again that no, Trump isnt going to build a Wall, and no, Mexico definitely isn't going to pay for it. In the meantime, there is almost no discussion about what someone other than Trump—and specifically, Hillary Clinton—wants to do about immigration. With such a rich silt of xenophobia to sift through, it seems, most people aren't paying attention to the alternative."
+        },
+        {
+            "id": "10",
+            "text": "She has made some eye-opening comments. If you ever believed that Hillary Clinton’s immigration stance was driven by anything other than cynical opportunism, you may want to reconsider. Already, Clinton has adopted a Merkel-like position on immigration. During the Democratic primaries, eager to avoid the ghosts of some unsavory comments she made in 2014, Clinton espoused a doctrine of open borders. “I would not deport children,” she said in March. “I do not want to deport family members either.” In other words: If you come here with your family, you will be allowed to stay. And if you’re already here illegally, Clinton believes in creating a path to citizenship for you, with or without Congress’s consent. None of these views place her outside the Democratic mainstream, at least as it stands at the moment. But of late her immigration stance has become incoherent. She still wants immigration reform, but now it seems like a path to citizenship is all such reform entails, at least on the first go-round. In a recent interview with Ezra Klein of Vox, Clinton said she opposes a plan that would also deal with reforms to the process by which high-skilled immigrants are granted visas: Comprehensive immigration reform with a path to citizenship would deal with a lot of these concerns, not just the 11 million people here: how we would regularize them, what kind of steps they’d have to go through. Because I believe they do have to meet certain standards if they’re going to be on a path to citizenship. But I don’t want to mix that with other kinds of changes in visas and other concerns that particularly high-value technical companies have. In fact, I think keeping the pressure on them helps us resolve the bigger problem, and then we can look to see what else, if anything, can and should be done [emphasis added]. Put another way, Hillary Clinton not only believes that visa reform for high-skilled workers shouldn’t be part of immigration reform, but also that visa reform might not be a good idea at all. Clinton has taken the exact inverse position of the subset of economists who argue that an influx of high-skilled immigration, facilitated by visa reform, is an unequivocal economic good, and that the economic effects of low-skilled immigration are less positive. For some reason, she views the issues of visa reform and a path to citizenship as mutually exclusive, rather than symbiotic. Accordingly, she would focus on a path to citizenship while consciously rejecting efforts to reform the visa system."
+        }
+     ]
+ }
