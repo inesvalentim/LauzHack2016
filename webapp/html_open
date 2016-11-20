@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- Bootstrap setup -->
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="/bootstrap/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="/bootstrap/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<!-- End Bootstrap setup -->
+<style type="text/css">
+.news_article {
+    min-height: 300px; /* why the hell did I set this ? */
+}
+
+.voteThisOne {
+    text-align: center;
+    border: 1px solid #BBBBBB;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+
+.error {
+    text-align: center;
+    border: 1px solid #FF0000;
+    border-radius: 5px;
+    padding: 8px;
+    background: rgb(252, 153, 162);
+    color: rgb(66, 5, 10);
+}
+
+
+.voteThisOne:hover {
+    background: #FAFAFA;
+}
+
+.news_article_title {
+    font-size: 15pt;
+    text-align: center;
+    width: 100%;
+}
+
+body {
+    background-color: #FFFFFF;
+}
+
+.header {
+    background: rgb(221, 97, 97);
+    background: rgba(221, 97, 97, 25);
+    padding: 20px;
+}
+
+.main_container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer {
+    text-align: center;
+    color: #AAAAAA;
+    font-size: small;
+}
+
+.articleTextHolder {
+    padding: 5px;
+}
+</style>
+
+<title>LauzHack 2016 Political Opinion Analysis System</title>
+</head>
+
+<body>
+
+<div class="header">
+<center>
+<img src="/img/LauzHack_Logo.png" style="height: 50px;">
+
+<h1>LauzHack 2016 Political Opinion Analysis System</h1>
+</center>
+</div>
+
+<div class="container main_container">
