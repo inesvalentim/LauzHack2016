@@ -1,0 +1,361 @@
+{
+	"documents": [
+		{
+			"id":"1",
+			"text": "Donald Trump’s anti-immigration stance threatens the heart of American innovation Silicon Valley is terrified of Trump President-elect Donald Trump is causing a stir in Silicon Valley. After riding the path to the White House in part thanks to his anti-immigration rhetoric, Trump is now casting a shadow over the tech industry’s use of high-skilled foreign labor. Chief among the interests of industry luminaries is the potential expansion of the H-1B visa program, one of the Valley’s primary sources of overseas talent acquisition. Now, a Trump presidency puts that initiative at risk. Because Trump has flip-flopped on the topic in the past, it’s uncertain whether he’ll heed the advice of Facebook CEO Mark Zuckerberg and others to allow more foreign-born computer scientists and software engineers to fill US jobs. In fact, despite his supporters’ defense that Trump is focusing on illegal immigrants, his proposals may in fact undermine legal immigration in ways the tech industry has never seen before. TRUMP’S PROPOSALS MAY UNDERMINE LEGAL IMMIGRATION IN WAYS THE TECH INDUSTRY HAS NEVER SEEN BEFORE This was essentially a right-wing populist campaign. A big share of that populism was a belief that we have too much immigration,” says economist Rob Atkinson, president of tech policy think tank Information Technology and Innovation Foundation. The most likely outcome, in Atkinson’s eyes, is that H-1B visas “will be restricted, limited, and harder-to-get” and that tech companies will “have to go through more hoops to prove there’s not an American that can get the job. Already, Silicon Valley’s largest immigration lobbying group, the Zuckerberg-backed FWD.us, is mobilizing to prevent a rollback or freeze on reform. “Our team at FWD.us — made up of Republicans and Democrats, native-born Americans and immigrants alike — remains fully dedicated to an America that values immigrants,” reads a statement put out yesterday. The group cites exit poll data indicating 71 percent of Americans support a pathway to citizenship. TECHNOLOGY STOCKS ARE DOWN ACROSS THE BOARD SINCE TRUMP WON THE ELECTION Yet it’s clear FWD.us is concerned. President Todd Schulte followed up the initial statement with a second plea to “stand up for your beliefs, stand with the communities who need you right now, stand for those who can’t stand for themselves and remember that a lot of people don’t have the option to walk away from this fight.” It’s not just the lobbying groups, but investors as well that fear a Trump presidency may adversely affect the industry. Technology stocks are down across the board this week for some of the biggest companies on the planet, including Amazon, Google, and Facebook. The urgency comes from the uncertainties of a Trump administration, but also the personal stakes. The CEO of Google, Sundar Pichai, is an immigrant. As are Google co-founder Sergey Brin and Microsoft chief Satya Nadella. The entire Silicon Valley philosophy rests on the idea of rewarding individuals for hard work, talent, and ingenuity — regardless of race, class, or country of origin. Trump’s vague immigration policy proposals threaten this worldview. In a very material way, they also threaten the workforces of both the juggernauts and startups of the tech industry that use the H-1B and other visa programs to expand talent searches around the globe. Google CEO Sundar Pichai wrote an impassioned defense of immigrants and Muslims last December as Trump’s campaign gained steam. Photo by Justin Sullivan/Getty Images According to the National Foundation for American Policy, more than half of all US technology startups are founded by immigrants. So without an easy path toward citizenship, or in the face of a clamping down on foreign work visas, Silicon Valley faces to lose more than just its lobbying goals in Washington. It could begin to see its influence in all sectors of modern industry — from entertainment to transportation to finance — wane as foreign workers and startup founders are denied entry and begin establishing technology centers outside the US. This could have a number of lasting ripple effects as large tech companies start feeling disadvantaged. “A company like Oracle or some of the enterprise software companies, you could see them potentially losing global market share because of this,” Atkinson says. To counter, those companies could look to Canada. “Places like Vancouver, Toronto, even Montreal could be an option for American tech companies,” he adds. Canada could also use this opportunity to court foreign startup founders away from places like Palo Alto. CANADA COULD COURT STARTUP FOUNDERS AWAY FROM PLACES LIKE PALO ALTO As it stands today, the H-1B visa is the most widely used system for bringing in high-skilled foreign labor into the US, allowing in and extending the stay of more than 315,000 foreign workers as of 2014. This amount has increased over the years due to country-based exemptions and renewals that extend the total approvals far beyond the 85,000 per year cap. H-1B visas last three years, with a three-year extension allowed. Still, Silicon Valley and groups like FWD.us are fighting for a broader expansion and easier path to citizenship to allow foreign workers to remain and stay employed permanently. One such proposal includes granting green cards to any foreign student who graduates from an American university. The overall idea is to urge as many as people as possible to pursue tech jobs in the US. Critics, Trump included, say the program is abused to let companies rely on low-cost labor from cheaper countries. In one high-profile case, Disney laid off hundreds of tech workers last year and replaced them with Indian contractors in the US on H-1Bs. The situation, which got Disney sued by its former employees, has become emblematic of H-1B abuses. As it stands, more than 65 percent of all approved H-1B petitions in 2014 were for computer-related jobs, and 96 percent of all approved petitions were for people with bachelor’s degrees or above. The median salary for H-1B workers was around $75,000 two years ago. However, six out of the top 10 H-1B visa recipients in 2014 were IT-focused companies headquartered in India that focus on selling contracts for temporary employment. Trump has been forced to acknowledge the H-1B’s pros and cons in the past, but his position, like his stance on many topics, has remained slippery. As far back as October of 2015, Trump was challenged by a campaign website statement admonishing US companies for hiring foreign workers, demanding instead that companies “hire from the domestic pool of unemployed.” When asked about the H-1B system by moderator Becky Quick that month, Trump said, “I’m in favor of people coming into this country legally. And you know what? They can have it any way you want. You can call it visas, you can call it work permits, you can call it anything you want … as far as the visas are concerned, if we need people, it’s fine.” This answer contradicted his actual policy proposals, which suggested raising the wage requirements for H-1Bs — to address a criticism that H-1B workers are used primarily as cheap labor — and adding a requirement to seek out domestic candidates prior to hiring foreign workers. Final Presidential Debate Between Hillary Clinton And Donald Trump Held In Las Vegas Later, in March of this year, Trump was asked to clarify his position again by Fox News debate moderator Megyn Kelly. “I’m changing. We need highly skilled people in this country, and if we can’t do it, we’ll get them in,” Trump said. However, after the debate, Trump’s campaign released a statement saying the H-1B program was full of rampant abuse. The H-1B program is neither high-skilled nor immigration: these are temporary foreign workers, imported from abroad, for the explicit purpose of substituting for American workers at lower pay,” the statement read. “I will end forever the use of the H-1B as a cheap labor program, and institute an absolute requirement to hire American workers for every visa and immigration program. No exceptions.” I WILL FOREVER END THE USE OF THE H-1B AS A CHEAP LABOR PROGRAM. Trump appeared to come to rest on the topic in a later Republican debate in March, when he admitted to relying on the H-1B program for his own businesses, but admitting he “shouldn’t be allowed to use it” and adding, “We shouldn’t have it. Very, very bad for workers.” So if anything, Trump’s position on the H-1B program would appear to be pushing against the wishes of Silicon Valley, even if he has exhibited moments of self-doubt or change. What this extreme uncertainty says for the future of Silicon Valley employment is unclear. But Trump’s policy proposals don’t reside on the strongest economic footing. The theory is that if you make it harder to hire foreign workers, tech companies will be forced to both raise wages and look to American talent to fill those roles. Those are workers that, in the eyes of H-1B critics, are either too expensive or not young enough to fit the cynical Silicon Valley mold of young, foreign, and cheap. In practice, it may not actually play out like that. I believe that dynamic works in truck driving,” Atkinson says. “It’s not hard to become a truck driver. It’s really hard to become a software engineer. You’ve got be, first of all, smart. You’ve got to know a lot about math. That eliminates a lot of people in this country.” And if you raise the price of acquiring talent? “They [tech companies] get their talent elsewhere,” Atkinson adds. “Truck driving is a domestic market for skills. Tech is a global market for skills.”
+			"
+		},
+		{
+			"id":"2",
+			"text": "Cities Defend Immigration Sanctuary Policies Under Fire by Donald Trump
+Democratic mayors in New York, Chicago and Los Angeles, among others, say they will challenge any administration crackdown
+
+Mayors in at least seven major U.S. cities reaffirmed their commitments to shelter illegal immigrants from federal immigration authorities after Republican president-elect Donald Trump said he would block federal funding for “sanctuary cities.”
+
+Sanctuary policies vary by city. Typically, local police refrain from helping federal authorities identify undocumented immigrants for deportation, unless they have committed serious crimes.
+
+The San Francisco-based Immigrant Legal Resource Center counts five state-level laws or policies, 365 county policies or ordinances, and 37 city-level policies putting some limits on these requests.
+
+Following Mr. Trump’s election, Democratic mayors in cities including New York, Chicago, Los Angeles, Seattle, Philadelphia, San Francisco and Providence, R.I., among others, said they would challenge any Trump administration move to crack down on illegal immigration.
+
+Many billions of dollars could be at stake. For instance, San Francisco alone gets about $1 billion annually from the federal government, both directly and through the state, according to Ben Rosenfield, the controller for the city and county. The city is “assessing budget impacts from possible federal actions,” but support for public health and human service programs could be affected, he said.
+
+Chicago Mayor Rahm Emanuel, center, is one of several city leaders who has said that city services won’t change for people, regardless of their immigration status, as ‘sanctuary cities’ face opposition from the incoming administration.
+Presidents have limited powers to strip federal funding from local governments without the express approval of Congress, say legal experts. This is especially true in regard to mandatory expenditure programs, like Medicaid.
+
+The Trump administration would have more leeway to suspend or slow the allocation of discretionary grants, particularly those related to criminal justice and dispensed by the Justice Department or the Department of Homeland Security, said George Washington University constitutional law professor Jonathan Turley.
+
+With those funds, “there’s a great deal the Trump administration could do to carry out the threat,” he said. The Trump administration could also steer more grant money to cities that cooperate with federal immigration laws, he said.
+
+Presidential spending power has been a contentious area of law, especially during the Obama administration, and Mr. Turley said he would expect that cities would go to court to challenge any effort to financially punish them for sheltering undocumented immigrants.
+
+Immigration and Customs Enforcement can enforce federal immigration law without cooperation from local authorities but protective policies at the local level make the agency’s job more challenging.
+
+At issue in many localities is a practice by the Department of Homeland Security to identify a potentially deportable individual in jails and issue a “detainer,” which can extend detention even for low-level offenders.
+
+Some cities argue it isn’t their role to enforce immigration laws and doing so sows distrust between communities and police. Some courts have ruled against the use of detainer requests. The Northern District of Illinois ruled in October that detainer requests by the Chicago field office for ICE exceeded the government’s authority to detain immigrants without a warrant.
+
+Los Angeles doesn’t turn over people arrested for low-level crimes to ICE. Philadelphia won’t cooperate with detainer requests unless the person has committed a first- or second-degree felony involving violence. Providence continues holding only individuals subject to a criminal detainer, meaning they were convicted of a prior crime, typically a felony.
+
+Sanctuary polices don’t deter federal agents from conducting operations to find undocumented immigrants. Federal agents routinely identify child molesters, gang members and other criminals for removal even in sanctuary cities by going into communities, thanks to their own intelligence-gathering.
+
+Some localities actively partner with ICE, and some have aggressively pursued undocumented immigrants through their own programs. In Arizona, Maricopa County Sheriff Joe Arpaio faces a criminal contempt-of-court charge for defying a judge’s order to stop conducting immigration patrols. His lawyer has said he will fight the charge. The sheriff lost a re-election bid last week.
+
+More than 2.5 million people have been deported by the Obama administration. It has prioritized the removal of convicted criminals and recent illegal border crossers, which isn’t dissimilar to what president-elect Trump suggested would be his administration’s emphasis in a recent interview on CBS’ “60 Minutes.”
+
+Republicans have criticized noncompliant jurisdictions. The Republican-controlled House of Representatives passed legislation last year that would withhold federal, law-enforcement grants from cities that shelter undocumented immigrants. President Barack Obama said he would veto the bill and Senate Democrats blocked a version in that house.
+
+The term “sanctuary city” is ill-defined, said Los Angeles Mayor Eric Garcetti, a Democrat.
+
+“We would not like to lose federal funds,” Los Angeles Police Chief Charlie Beck said Tuesday. “But I will tell you this: Whether or not I do the right thing is not a matter of money. This is a matter of principle.”
+
+On Thursday, Los Angeles City Council President Herb Wesson said he would introduce a motion next week to protect the city’s sanctuary status. The motion would include steps such as identifying all federal grants, loans and other funding the city receives, creating an immigrant advocate and a committee on immigrant affairs to “develop a comprehensive set of strategies and plans.”
+
+“Los Angeles is a melting pot of hundreds of ethnic groups, languages and religions,” Mr. Wesson said. “Let us lead by example in practicing tolerance and acceptance rather than malice and hostility.”
+
+San Francisco Mayor Ed Lee, a Democrat, said, “We stand united in our commitment to protect immigrant rights and provide refuge for those in need.”
+
+The city faced an outcry last year after an undocumented Mexican allegedly shot and killed Kathryn Steinle, 32 years old, as she walked with her father along Pier 14. Local officials ignored a request from federal officials to have the man held despite his criminal record and five previous deportations. Politicians from both parties criticized the city for letting the man, Francisco Sanchez, go, but the city’s Board of Supervisors voted unanimously in October 2015 to keep the policy in place.
+
+Chicago Mayor Rahm Emanuel, a Democrat and former chief of staff to President Obama, on Monday instructed operators who handle calls to the 311 city services line to assist residents with fears about legal status, adding that jobs programs and hospital services “will always be there” for people, regardless of their immigration status.
+
+New York Mayor Bill de Blasio, a Democrat, last week said he would fight efforts to deport people in the city and would consider destroying a database the city maintains for a program that provides identification to people in the city regardless of immigration status.
+
+“We are not going to sacrifice a half-million people who live amongst us, who are part of our communities,” he said. “We’re not going to tear families apart.”
+
+“Folks are scared,” said Providence Mayor Jorge Elorza, a Democrat. The city of about 180,000 people is 44% Latino, and his message for residents is “they are safe and we have their back.”
+			"
+		},
+		{
+			"id":"3",
+			"text": "Tech Industry Could be "First to Suffer" From Trump's Immigration Stances
+
+Entrepreneurs say they need more, not fewer, foreign workers.
+The U.S. tech sector was broadly opposed to the candidacy of Donald Trump, motivated by concerns from data privacy to telecom regulation. But the biggest concern may have been the potential impact of Trump’s immigration stance on tech staffing.
+
+Trump essentially made his political name by broadly opposing immigration, from illegal migrants to Syrian refugees. But he has sent mixed messages about the issue most relevant for tech companies, the H-1B visa program for temporary foreign workers. The majority of H-1B workers are in technology fields, and the tech sector says it needs more workers than the program currently provides because there aren’t enough skilled Americans to fill those jobs.
+
+But President Elect Trump has characterized the program as a way for companies to undercut American wages with cheap foreign labor. He proposed that the program be restricted, that companies be required to hire Americans first, and that the prevailing wage for H-1B workers be raised.
+
+Trump has since seemed to reverse that position, saying that “we need highly skilled people in this country, and if we can’t do it, we’ll get them in.” But he could still restrict immigration on a country-by-country basis, and is now staffing his cabinet with figures who oppose immigration in all forms. That includes Attorney General candidate Jeff Sessions, who argues that legal immigration primarily benefits economic elites at the expense of workers, but has also made racist statements.
+
+Trump has also threatened to end or renegotiate America’s NAFTA trade agreement with Canada and Mexico, which created another visa path for professionals. And he is seen as unlikely to move forward with a special immigration rule for foreign-born entrepreneurs, who founded almost 45% of startups in 2012.
+
+That mix of threat and uncertainty has Silicon Valley on tenterhooks about what happens next. Speaking with Bloomberg, Y Combinator co-founder Paul Graham said Silicon Valley would be “the first to suffer if it got harder to come to America or if increasing xenophobia made fewer people want to.”
+
+The consequences could come in myriad forms, not only by limiting staffing efforts, but because those foreign workers would, by necessity, go to the competition in other countries. Indeed, China is already inviting talent who may be blocked from the United States to consider its tech sector. Not to mention that the U.S. tech industry already struggles with diversity even with the H-1B visa program and current immigration policies in place.
+
+Shifting perceptions of American openness to foreign workers may have as much impact as any regulatory change. Hate crimes and racist incidents have surged following Trump’s victory, which was also seen as a win for the new wave of “alt-right” groups. Those groups lobbied hard for Trump, and advocate for white identity politics.
+
+A huge proportion of international workers joining U.S. tech companies are from India. As immigration lawyer Ava Benach put it to Bloomberg, “people who have brown skin might feel pretty uncomfortable coming to the U.S. under these circumstances.”
+
+If they can’t get the workers they need, tech companies’ growth could be severely throttled. And with tech a major ingredient in U.S. job and GDP growth, the consequences could reach well beyond the Valley.
+			"
+		},
+		{
+			"id":"4",
+			"text": "What Trump's Presidency Means For Illegal Immigrants And Immigration To The U.S.
+
+Donald Trump’s extraordinary election as president of the United States defied all odds and surprised even some of his most ardent supporters. Those concerned with immigration are struggling to assess the consequences that will follow based on his platform and Republican control of both the Senate and the House.
+
+Donald Trump winning the U.S. Presidential election will now try to implement his immigration policy. It includes deporting 11 million unlawfully present immigrants, building a wall on the Mexican border to be paid by Mexico and blocking certain Muslims from terrorism-related areas from immigrating to the United States.
+For starters,  Trump has promised to deport the 11 million undocumented immigrants in the United States. Some immigration leaders have voiced fears of raids on illegal immigrants, possible abuse of process and increased detentions. Considering that illegal immigrants in America are entitled to due process, significant resources to hire more judges and prosecutors will be needed. Even then, courts will be clogged with immigration cases for years to implement such a policy. In short that’s a tall mountain to climb, but Trump has steadfastly advanced the idea.
+
+Once he assumes office, President Trump is likely to cancel President Obama’s executive orders establishing the DACA and DAPA programs, which would have granted undocumented immigrants temporary reprieves from removal and given long-term resident illegal immigrants work permits. The personal information of illegal immigrants collected for DACA benefits could now be used against those who registered under the program. Similarly, the current policy of prosecutorial discretion that shelters some unlawful immigrants by focusing on violent criminal deportations as a priority, could be cancelled by a new Trump executive order.
+
+Clearly Trump will want to stem the tide of Syrian refugees coming to the United States. He spoke in particular about blocking Muslim immigration from the areas of the world where there is a proven history of terrorism against the United States, Europe or our allies. That’s likely to come in the early days of Trump’s presidency.
+
+Trump’s announced plan for reforming immigration, that is to say, building a wall along the southern border and having Mexico pay for it, tripling the number of immigration and customs agents to clamp down on border security, cancelling birthright citizenship and imposing e-verify on employers hiring foreign workers, can all be expected to be part of his changes in immigration policy. Further, we can expect that he will make it harder for foreign students to study in the U.S. by ending subsidies and lowered in-state tuition fees for those who are currently eligible for them.
+
+The extent of such changes in policy will depend, however, on what personnel he appoints to implement it. Nonetheless, my earlier article assessing Trump’s immigration plan pointed out why his ideas about deportations and building a wall are simply not practical.
+
+In the area of employment, some immigration attorneys expect difficulty in expanding the H-1B visa program not only because of Trump, but also because Senator Chuck Grassley, the Republican Senator from Iowa, will be leading opponents of easing H1B work visa requirements by Congress. Instead of expanding who may come in under the H-1B program, which is particularly needed by many high tech companies in Silicon Valley, it is more likely that Congress will increase the prevailing wage required and introduce an American-worker-first element.
+
+However, immigration initiatives are likely to be somewhat delayed by higher priority matters, such as eliminating Obamacare, tax reforms and the wars overseas. In the end, this may be the illegal immigrant community’s best hope in the year ahead.
+			"
+		},
+		{
+			"id":"5",
+			"text": "Donald Trump promises to deport 3 million “illegal immigrant criminals.” That’s literally impossible.
+To deport as many immigrants as he wants to, he’s going to have to scoop up a lot of people who aren’t criminals at all.
+
+If you take President-elect Donald Trump at his word, according to what he told 60 Minutes’ Lesley Stahl in his first interview since the election, the overwhelming majority of unauthorized immigrants in the US have nothing to fear from his administration.
+
+“What we are going to do is get the people that are criminal and have criminal records, gang members, drug dealers,” he told Stahl. Most unauthorized immigrants don’t have criminal records. If the Trump administration actually limited its deportation efforts to convicted criminals, it would be more lenient than the Obama administration has ever been.
+
+The problem is that the president-elect doesn’t understand that. He told Stahl that there are “probably 2 million, it could even be 3 million” unauthorized immigrants with criminal records in the US — and that he wanted to deport all of them.
+
+The Trump administration isn’t going to be able to deport 2 or 3 million “criminal illegal immigrants,” because there simply aren’t that many people who fit the description. If it wants to deport 2 to 3 million people, it’s going to have to scoop up a lot of people who don’t already have criminal convictions.
+
+Deporting 2 to 3 million immigrants in a single term as president would be something we’ve never seen in America. It would put every unauthorized immigrant in the US under a one in four chance of being separated from family, thrown in jail, or sent back to a country that many of them haven’t set foot in for years.
+
+Take President-elect Trump at his word, and unauthorized immigrants have nothing to fear from him. Look at the implications of his promises, though, and they have everything to fear.
+
+
+There probably aren’t 2 or 3 million unauthorized immigrants with criminal records in the US — and there never has been
+The reason there’s so much uncertainty about Trump’s plan is that it’s based on a false premise. And when you’re making policy based on a false premise, you end up facing a choice: Stick to the game plan — even if it doesn’t get the results you want — or do whatever is needed to make it look like you were right all along.
+
+Unsurprisingly, the core of Trump’s argument is a bogus statistic. He’s promising to deport “people who are criminal and have criminal records” who are also “here illegally” — and then saying there are “probably 2 million, it could even be 3 million” of such people.
+
+The stretch to 3 million is sheer Trumpian exaggeration. But the 2 million is rooted in an official government estimate — of something else.
+
+In its budget request for the 2013 fiscal year (written in early 2012), the Department of Homeland Security requested extra money to identify and deport immigrants living in the United States who’d been convicted of crimes. It explained the need for the cost by pointing out that the government had never been able to track all “removable criminal aliens”:
+
+ICE estimates that approximately 900,000 arrests of aliens for crimes occur every year and that approximately 550,000 criminal aliens convicted of crimes exit law enforcement custody every year. ICE has never had the capability to identify, arrest and remove all of these criminal aliens. ICE estimates that 1.94 million removable criminal aliens are in the United States today.
+This estimate was basically an educated guess — and it was based on data that was already a few years old when ICE wrote the report.
+
+ICE looked at the number of immigrants in the United States according to the 2008 American Community Survey, looked at a Department of Justice report (with data that ended in 2001) about the number of Americans who’d been in prison, and extrapolated accordingly.
+
+immigration detention
+It’s not clear whether there were ever 1.9 million “removable criminal aliens.” It’s certainly likely that after eight years of an Obama administration that’s implemented immigration checks in prisons and jails all over the country and deported hundreds of thousands of “criminal aliens,” there are fewer than 1.9 million left. After all, ICE made that estimate to request more money from Congress to deport these people — and the money was granted.
+
+And, crucially, it’s not clear how many “removable criminal aliens” are also unauthorized immigrants. Despite what President-elect Trump says, the two are not the same: An immigrant can be “removable” because he’s unauthorized, but he can also become removable once convicted of a crime that strips him of his legal status.
+
+The Trump administration’s first 100 days’ plan promises to start removing “the more than 2 million criminal illegal immigrants from the country.” But the population of “criminal illegal immigrants” is a subgroup of the “removable criminal aliens” that ICE once estimated to number 2 million. And who knows how many of those are left.
+
+The Trump administration is getting rid of the policies that focused deportation efforts on criminals
+Obviously, it matters intrinsically that the president-elect of the United States is building one of his chief administration policy priorities on a statistic that’s essentially a lie. Even if there were 2 million unauthorized immigrants with criminal records in the US, the US government doesn’t know where all of them are. The number of immigrants with criminal records who’ve recently been released from custody amounts to fewer than 200,000.
+
+Since the Trump administration won’t be able to do what it promises, though, the question becomes what it will do instead. And here’s where things get sticky.
+
+If the Trump administration really stuck to deporting or detaining “criminal illegal immigrants” — if it didn’t deport any unauthorized immigrant who hadn’t been convicted of a crime — it would be more lenient than the Obama administration has ever been toward the unauthorized.
+
+Right now (thanks to a policy that’s been in place since late 2014), ICE agents are instructed to focus on people convicted of crimes, people who’ve entered the US since 2013, and people who already have deportation orders. Taking the Trump administration at its word about “criminal illegal immigrants,” it would only target the first of those.
+
+ICE raid arrest
+But the only way to focus resources on a particular group of unauthorized immigrants is to tell immigration agents not to spend their resources on other groups of unauthorized immigrants — to tell agents whom they should and shouldn’t deport.
+
+In other words, it requires doing exactly what President-elect Trump has promised not to do: directing immigration agents only to “enforce the law” in particular cases.
+
+Many agents think their job is to apprehend and deport anyone who’s violated immigration law — the idea of focusing on people who’ve also broken criminal laws just doesn’t make any sense to them. They’ve been in semi-open rebellion against the Obama administration, and they rallied around a candidate, Donald Trump, who promised to let them do their jobs.
+
+President-elect Trump has promised to dismantle the programs that allowed the Obama administration to protect particularly “terrific” immigrants from deportation — like the 2012 Deferred Action for Childhood Arrivals program.
+
+Without another way to tell agents what to do (in a way that forces them to comply), the Trump administration wouldn’t be any more effective than the Obama administration was during its first term, when it told agents to focus on “criminals” but wasn’t able to do anything when agents decided to go after people who were simply here without papers.
+
+Deport 2 million people first, label them “criminals” later?
+Even when there was evidence that immigration agents weren’t just going after convicted criminals, though, President Obama and his White House claimed they were. And the official statistics collected by ICE certainly indicated that at least half of their record numbers of deportees were “criminal aliens.”
+
+Plenty of “criminal aliens,” though, weren’t threats to public safety. Many were just people who’d come into immigration custody through the criminal justice system after being picked up by local police or booked into a local jail. In practice, this created an incentive to engage in racial profiling: Pull over someone who “looks illegal” for a traffic violation, book him for driving without a license, turn him over to immigration agents, tally him up as a “criminal alien.”
+
+The Trump administration has promised to restore the programs that gave local police most power to help enforce immigration law. It’s going to have a lot of unauthorized immigrants come into contact with the criminal justice system — most of whom wouldn’t be considered “removable criminal aliens” if you looked at their records today.
+
+It would be very easy for the Trump administration to deport as many people as possible and simply claim it’s doing it because they’re criminals. Immigration agents won’t disagree: Many of them see all unauthorized immigrants as criminals. The public may not know any better. After all, President Trump will say they’re going after criminals.
+
+The only people who will know the truth will be immigrants themselves, who will live under the constant fear of detention and deportation — and for whom the fact that they aren’t convicted criminals will, they know, be no protection.
+			"
+		},
+		{
+			"id":"6",
+			"text": "Immigration reform
+We need comprehensive immigration reform with a pathway to full and equal citizenship.
+
+If we claim we are for family, then we have to pull together and resolve the outstanding issues around our broken immigration system. The American people support comprehensive immigration reform not just because it’s the right thing to do—and it is—but because they know it strengthens families, strengthens our economy, and strengthens our country. … We can’t wait any longer for a path to full and equal citizenship. 
+Hillary, May 5, 2015
+
+Hillary has been committed to the immigrant rights community throughout her career. As president, she will work to fix our broken immigration system and stay true to our fundamental American values: that we are a nation of immigrants, and we treat those who come to our country with dignity and respect—and that we embrace immigrants, not denigrate them.
+
+As president, Hillary will:
+
+Introduce comprehensive immigration reform. Hillary will introduce comprehensive immigration reform with a pathway to full and equal citizenship within her first 100 days in office. It will treat every person with dignity, fix the family visa backlog, uphold the rule of law, protect our borders and national security, and bring millions of hardworking people into the formal economy.
+End the three- and 10-year bars. The three- and 10-year bars force families—especially those whose members have different citizenship or immigration statuses—into a heartbreaking dilemma: remain in the shadows, or pursue a green card by leaving the country and loved ones behind.
+Defend President Obama’s executive actions—known as DACA and DAPA—against partisan attacks. The Supreme Court’s deadlocked decision on DAPA was a heartbreaking reminder of how high the stakes are in this election. Hillary believes DAPA is squarely within the president’s authority and won’t stop fighting until we see it through. The estimated 5 million people eligible for DAPA—including DREAMers and parents of Americans and lawful residents—should be protected under the executive actions.
+Do everything possible under the law to protect families. If Congress keeps failing to act on comprehensive immigration reform, Hillary will enact a simple system for those with sympathetic cases—such as parents of DREAMers, those with a history of service and contribution to their communities, or those who experience extreme labor violations—to make their case and be eligible for deferred action.
+Enforce immigration laws humanely. Immigration enforcement must be humane, targeted, and effective. Hillary will focus resources on detaining and deporting those individuals who pose a violent threat to public safety, and ensure refugees who seek asylum in the U.S. have a fair chance to tell their stories.
+End family detention and close private immigration detention centers. Hillary will end family detention for parents and children who arrive at our border in desperate situations and close private immigrant detention centers.
+Expand access to affordable health care to all families. We should let families—regardless of immigration status—buy into the Affordable Care Act exchanges. Families who want to purchase health insurance should be able to do so.
+Promote naturalization. Hillary will work to expand fee waivers to alleviate naturalization costs, increase access to language programs to encourage English proficiency, and increase outreach and education to help more people navigate the process.
+Support immigrant integration. Hillary will create a national Office of Immigrant Affairs, support affordable integration services through $15 million in new grant funding for community navigators and similar organizations, and significantly increase federal resources for adult English language education and citizenship education. 
+			"
+		},
+		{
+			"id":"7",
+			"text": "Trump has said Mexican immigrants are murderers and rapists and has called for a ban on immigrants seeking refuge from terrorism in their native countries. His talk of building a wall along the Mexican border and having Mexico pay for it has been a huge applause line at his rallies and events.
+
+Trump says U.S. immigration rules should focus more on the needs of working Americans and less on benefits to foreign nationals.
+
+He set forward three core ideas for immigration reform:
+
+1. Build a wall across the U.S.-Mexico border.
+
+Trump proposes a border wall and says Mexico should pay for the wall with a one-time $5 billion to $10 billion payment. Mexican President Enrique Peña Nieto argues there’s no way Mexico can pay for a wall as outlined by Trump.
+
+Trump has said Mexico will pay for the wall or the United States will take steps to interfere with remittances, the money that Mexican immigrants send back to family and friends. Trump said his administration would require wire transfer businesses to have customers prove their legal status in order to wire money outside the United States. By Trump’s estimates, people in the United States send about $24 billion a year to Mexico. If Mexico executes Trump’s proposed one-time payment for the wall, a Trump administration would not put into effect new rules for wire transfer agencies.
+
+Money for the wall would also come from trade tariffs and increased visa and border crossing card fees.
+
+2. Increase enforcement of immigration laws.
+
+Trump proposes eliminating federal grants to sanctuary cities, which are jurisdictions that have laws or practices in place that limit their assistance to federal immigration officials. In sanctuary cities, local police departments refuse to contact immigration authorities when they apprehend someone who may be in the country illegally. Sanctuary cities say that contacting immigration officials may impair the relationship they have with the local community and can lead to racial profiling. Others argue that refusing to call immigration officials undermines federal laws.
+
+Trump wants nationwide implementation of E-Verify, an internet-based platform used to match information on an employee’s Form I-9 (used to verify identity and employment authorization) to data collected by the U.S. Department of Homeland Security and Social Security Administration. E-Verify is already used by more than 600,000 employers nationwide, according to immigration officials.
+
+One major change in current law that Trump would like to see is an end to birthright citizenship. He says it’s "the biggest magnet for illegal immigration" and that children born to undocumented parents should not be granted U.S. citizenship, even though the 14th Amendment says that "all persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside."
+
+3. Focus on American workers.
+
+Trump says foreign workers weigh down salaries, keep unemployment high and make it difficult for Americans and immigrants to earn a middle-class wage.
+
+Trump says employers seeking to hire should first turn to the nation’s unemployed population before recruiting foreign workers. He would create a hiatus during which foreign workers abroad would not get green cards until employers hire native-born and immigrants already in the country.
+
+Trump wants to raise criteria for refugee admissions and asylum seekers to reduce the amount of money used for programs that assist them. He says that money instead would be invested in ways to help American children without parents and in improving safety in high-crime communities.
+			"
+		},
+		{
+			"id":"8",
+			"text": "Hillary Clinton
+
+Clinton has presented herself as an advocate for comprehensive immigration legislation, emphasizing a commitment to keeping immigrant families together, giving undocumented workers a chance to "come out of the shadows" and pushing for immigrant integration.
+
+1. Immigration legislation.
+
+Clinton says she supports new immigration legislation that would create a path to citizenship. Clinton also wants Congress to get rid of the 3- and 10-year bars, the time limits on undocumented immigrants who leave the country as part of a process to legalize their status are expected to stay away from the United States before returning legally. Clinton argues that families in which members have different legal statuses are confronted with a decision to separate and go back to their native countries in order to fix their status.
+
+Clinton said she will defend President Barack Obama’s stalled executive actions designed to protect from deportation up to 5 million undocumented immigrants -- Deferred Action for Parents of Americans and Lawful Permanent Residents, or DAPA, and Deferred Action for Childhood Arrivals, or DACA. The actions meant to offer temporary relief from deportation to undocumented immigrants who met certain criteria, such as no felony convictions. The plans are at a halt after the Supreme Court deadlocked on a 4 to 4 vote on the legality of the actions.
+
+2. Encourage immigrants to become naturalized citizens.
+
+Clinton wants to make it easier for people to become U.S. citizens. Clinton says she would expand fee waivers so that money isn’t an obstacle for the estimated 9 million people eligible for citizenship. Her plan is to also increase outreach and education so that potential citizens have a better understanding of the naturalization process.
+
+Clinton promises to help the nation’s estimated 42 million immigrants integrate into the United States by reducing language, education and economic barriers. She wants to increase access to language programs to help immigrants improve their English skills. Clinton says she would create a national Office of Immigrant Affairs to coordinate programs and policies among federal and local agencies working on integration and naturalization services.
+
+A Clinton administration would also favor allowing undocumented immigrants to buy medical insurance through the Affordable Care Act exchanges. Current law does not allow undocumented immigrants to buy marketplace health coverage.
+
+3. Change detention policies.
+
+Clinton says families who don’t pose flight or public safety threats should be offered cost-effective alternatives such as supervised release instead of detention. Private immigration detention centers would close under a Clinton presidency. She says these private centers may contribute, or have the appearance of contributing, to over-incarceration.
+			"
+		},
+		{
+			"id":"9",
+			"text": "Everything You Need to Know About Hillary Clinton's Immigration Plans
+
+With his self-immolating campaign to "make America great again," Donald Trump has put a lot of effort into make immigration one of, if not the biggest issue in the 2016 presidential race. Nearly every time the likely Republican candidate opens his mouth, he's promising Americans he'll build a "Trump Wall" along the southern border (and make Mexico pay for it), ban Muslims and birthright citizenship, and arm a militarized "deportation force"—among other things.
+
+At this point, Trump basically has a monopoly on the issue, hogging the spotlight while reporters chase their tails, explaining once again that no, Trump isn't going to build a Wall, and no, Mexico definitely isn't going to pay for it. In the meantime, there is almost no discussion about what someone other than Trump—and specifically, Hillary Clinton—wants to do about immigration. With such a rich silt of xenophobia to sift through, it seems, most people aren't paying attention to the alternative.
+
+Like Trump, Clinton has made the issue central to her presidential campaign, promising that if elected to tackle the chupacabra of immigration comprehensive reform within her first 100 days in the Oval Office. "Hillary has made a commitment that she wants to make this a signature issue and to prioritize this in her first 100 days, which is important and refreshing to hear," Todd Schulte, president of the immigration advocacy group FWD, told me. "She's made really clear that we have a fundamentally broken immigration system."
+
+It's hard to imagine how the two 2016 candidates could be further apart. It's probably the most divisive issue in what is already the most polarizing presidential campaign in recent memory—one where the candidates fundamentally disagree on even what problem it is they are trying to solve.
+
+Still, without both sides of the argument, it's hard to understand what's fueling all the reactive outrage surrounding this issue. So we asked immigration policy experts and legal experts to break down what exactly broke down what Clinton wants to do about immigration plan, to figure out what exactly people are voting for when they decide they're against Trump.
+
+
+Citizenship for Undocumented Immigrants
+
+The cornerstone to Clinton's immigration platform is the idea of giving undocumented immigrants a chance to live in the country legally—a sort of counterpoint to the mass deportations called for by Republicans. She hasn't specified exactly how her plan would work, or who would qualify, glossing over the more contentious details of a reform package. But any proposal would probably need to be passed by Congress—which means its prospects are already dim.
+
+"One reason for her not to be too specific is to leave room for some political debate," said Bill Galston, a senior fellow in governance studies at the Brookings Institution who worked as a policy advisor to former President Bill Clinton. "She's trying to convey a pretty detailed sense of what she'd do but it leaves questions. There's a difference between how specific you get when drafting legislation and campaigning."
+
+How this potential influx of newly legalized workers would impact jobs and the economy is one of the key questions driving the anxieties of Trump's supporters. Immigration policy analysts I spoke to suggested that Clinton's plan could be similar to the Senate's 2013 comprehensive reform bill. The Congressional Budget Office estimated the bill would decrease the federal deficit by $197 billion over the first decade.
+
+Clinton's plan could have similar economic effects, said Daniel Costa, director of immigration policy and research at the Economic Policy Institute, significantly increasing tax revenue by bringing undocumented workers into the legal workforce, while also increasing wages for low-income workers.
+
+Conservatives aren't buying that. "The costs would be huge," "People say the benefits would be taxes—undocumented immigrants pay a lot of taxes now and would pay even more taxes if they were legalized, nobody disputes that," said Mark Krikorian, executive director of the conservative Center for Immigration Studies. But, he added, "the amnesty doesn't make them more skilled workers," he said. "They're still unskilled workers in high tech economy and they're not going to be able to earn much more."
+
+Deferred Deportations
+
+Clinton's immigration plan had its first major setback last week, when the Supreme Court deadlocked over President Barack Obama's executive actions on immigration. The tie effectively derailed the administration's plans to grant temporary deportation relief to millions of undocumented immigrants living in the US. The programs would have shielded an estimated 5 million undocumented immigrants, mostly young people who were brought to the US as children, and the undocumented parents of US citizens.
+
+From the beginning of her campaign, Clinton has aligned herself with this aspect of Obama's immigration policy, saying she would continue the executive actions, known as the DACA (Deferred Action for Childhood Arrivals) and DAPA (Deferred Action for Parent Arrivals), and expand the programs to include the parents of childhood arrivals. Republicans have said that the president doesn't have the authority to take these steps, and the actions have been challenged by Texas and 25 other GOP-led states.
+
+After the Supreme Court's announcement last week, she said that the tie would not stop her from attempting similar executive action if elected president. "Today's decision by the Supreme Court is purely procedural and casts no doubt on the fact that DAPA and DACA are entirely within the President's legal authority," Clinton said in a statement issued the day of the decision. "That is why, as president, I will continue to defend DAPA and DACA."
+
+Experts say that the justices' decision, which sends the case back to the lower courts, changes the calculus around Clinton's plans. On the one hand, if Clinton wins the White House and is able to confirm a justice to fill the vacant seat on the bench, the Justice Department could appeal the case to the Supreme Court again.
+
+"She could say with some justification that if she's elected president and the Supreme Court is once again in full strength the court can take another bite of apple," Galston said. "Frequently issues come before the court more than once especially when the court is divided."
+
+But the court's stalemate could also make it much harder for Clinton to pass those executive actions in the first place. "In terms of executive action she may be more limited as a practical matter. Texas and other states will feel emboldened by today's decision to try to stop Hillary's executive action," said Stephen Yale-Loehr, an immigration law professor at Cornell University. The only real solution, he said, is to get Congress to pass these reforms—a dim prospect for any president.
+
+Reforming the Immigrant Detention System
+
+The US immigration detention has ballooned since the turn of the millennium, doubling in size between 2000 and 2010 amidst a national crackdown on immigration. The bloated system, run largely by private, for-profit prison companies,currently incarcerates men, women, and even children, and the detention centers have been plagued by allegations of abuse, medical neglect, and sexual assault.
+
+In a significant departure from the Obama administration's policies, Clinton has pledged to close these private-run detention centers. She has also promised to close the family detention centers opened by the Obama administration in 2014 in response to an influx of children and mothers seeking asylum from violence-plagued countries in Central America.
+
+Immigration advocates aren't totally satisfied, pointing out that Clinton has not actually promised to decrease overall detention of undocumented immigrants. "We don't think immigrant detention should exist," said Christina Parker, who directs immigration programs for Grassroots Leadership. "There's a strong argument that the only reason immigrant detention so large is to profit two or three companies. So if you believe that then there would be no reason for them to exist after private contracts ended."
+
+Parker added that the Democratic candidate should specify "how exactly and when exactly" the facilities would shut down. So far, Clinton has not.
+
+Giving Obamacare to Undocumented Families
+
+Apparently determined to excite maximum outrage from conservatives, Clinton has also promised to allow undocumented immigrants to purchase health insurance through the Affordable Care Act, although she has said that they should not qualify for subsidies—at least not at first.
+
+Unsurprisingly, conservative immigration analysts I spoke with think giving undocumented immigrants healthcare is a bad idea, regardless of whether or not the taxpayer is on the hook. "Letting illegals participate in the government health care system is a quasi legalization of their status because they're not supposed to be here but they participate in these government institutions," Krikorian said.
+
+He predicted that it would be a slippery slope to extending insurance subsidies, citing a 2010 report from his Center for Immigration Studies, which estimated that the government would pay an additional $8.1 billion if it offered Medicaid to all undocumented immigrants."If they're eligible for Obamacare subsidies that's just another form of welfare and it costs taxpayers huge amounts of money," Krikorian said.
+
+Taking in More Syrian Refugees
+
+Since the shooting in Orlando earlier this month, Trump has been warning Americans that Clinton's immigration plan would open the floodgates to Muslim immigrants, and make the nation even more vulnerable to Orlando-style massacres.
+
+"Under Hillary Clinton you'd be accepting hundreds of thousands of Middle Eastern refugees into our country with no system to vet them," Trump declared in a speech the day after the massacre. "The burden is on Hillary Clinton to tell us why she believes immigration from these dangerous countries should be increased without any effective system to screen who we are bringing in."
+
+He has since elaborated, claiming that "for the amount of money Hillary Clinton would like to spend on refugees, we could rebuild every inner city in America."
+
+What Trump is referring to is Clinton's plan to take in 65,000 Syrian refugees, an increase from the 10,000 Obama promised to resettle last September. The proposal would require additional funding from the federal government, although far from the "hundreds of billions of dollars" Trump claims it would. In 2014, the government budgeted $582 million to resettle 70,000 refugees; Clinton's proposal to resettle 65,000 refugees would add 55,000 refugees to that 70,000 cap, which amounts to about $450 million in additional funding.
+
+What She's Not Talking About
+
+Vociferous has she may be about immigration, Clinton has remained suspiciously silent on some of the more controversial policy questions—questions that will need to be answered if she has any hope of implementing comprehensive immigration legislation.
+
+Two areas in particular are conspicuously absent from Clinton's campaign platform. The first relates to the country's immigrant work visas, including those for skilled and unskilled workers—a program that experts agree is in dire need of reform.
+
+"Something that is helping keep wages low in certain occupations are the temporary foreign worker programs," said Costa, of the Economic Policy Institute. "Candidate Clinton has been silent about these programs—which are the most controversial aspect of immigration reform. So it's impossible to know where she stands."
+
+The second is more obvious, because it's the one her opponent can't stop talking about, namely, border security. Clinton has said little about what she would do to prevent illegal border crossings in the US, other than that her comprehensive immigration reform plan would also "protect our borders and national security."
+
+Confirming conservative fears about the Democratic Party's commitment to protecting the border, Clinton said in a March primary debate that her focus as president would be on immigration policy reform, rather border security, because of the gains the government has already made on that front.
+
+"We have the most secure border we have ever had," Clinton declared. "Apprehensions across the border are the lowest they've been for 40 years. Which just strengthens my argument that now it is time to do comprehensive immigration reform."
+			"
+		},
+		{
+			"id":"10",
+			"text": "Hillary’s Class Bias on Immigration
+
+She has made some eye-opening comments. If you ever believed that Hillary Clinton’s immigration stance was driven by anything other than cynical opportunism, you may want to reconsider. Already, Clinton has adopted a Merkel-like position on immigration. During the Democratic primaries, eager to avoid the ghosts of some unsavory comments she made in 2014, Clinton espoused a doctrine of open borders. “I would not deport children,” she said in March. “I do not want to deport family members either.” In other words: If you come here with your family, you will be allowed to stay. And if you’re already here illegally, Clinton believes in creating a path to citizenship for you, with or without Congress’s consent. None of these views place her outside the Democratic mainstream, at least as it stands at the moment. But of late her immigration stance has become incoherent. She still wants immigration reform, but now it seems like a path to citizenship is all such reform entails, at least on the first go-round. In a recent interview with Ezra Klein of Vox, Clinton said she opposes a plan that would also deal with reforms to the process by which high-skilled immigrants are granted visas: Comprehensive immigration reform with a path to citizenship would deal with a lot of these concerns, not just the 11 million people here: how we would regularize them, what kind of steps they’d have to go through. Because I believe they do have to meet certain standards if they’re going to be on a path to citizenship. But I don’t want to mix that with other kinds of changes in visas and other concerns that particularly high-value technical companies have. In fact, I think keeping the pressure on them helps us resolve the bigger problem, and then we can look to see what else, if anything, can and should be done [emphasis added]. Put another way, Hillary Clinton not only believes that visa reform for high-skilled workers shouldn’t be part of immigration reform, but also that visa reform might not be a good idea at all. Clinton has taken the exact inverse position of the subset of economists who argue that an influx of high-skilled immigration, facilitated by visa reform, is an unequivocal economic good, and that the economic effects of low-skilled immigration are less positive. For some reason, she views the issues of visa reform and a path to citizenship as mutually exclusive, rather than symbiotic. Accordingly, she would focus on a path to citizenship while consciously rejecting efforts to reform the visa system. Why is that? Because holding the sword of Damocles over the heads of the companies that rely on high-skilled immigrants is a more expedient way for her to push through her policy agenda (“the bigger problem”). It seems likely that Clinton believes she can leverage the promise of future visa reform to secure the support of tech companies for her path-to-citizenship efforts in the present. Hillary looks at the immigration issue as a surefire way to boost Latino turnout in battleground states. There’s another reason, too. It’s fairly obvious from the interview that Clinton conceives of immigration more as a political problem than as a moral one. This is not to say that she is wholly cynical and sees no moral problems with the immigration status quo; it’s just that she looks at the issue, first and foremost, as a surefire way to boost Latino turnout in battleground states such as Florida — states that might otherwise break for Trump. This shouldn’t be so surprising. In American politics, protectionism is the order of the day; thanks to Trump and Bernie Sanders, there are now whole swaths of voters on the left and the right with a visceral distrust of free trade. Clinton, faced with Sanders’s unexpectedly stiff challenge, tacked to the left on trade, coming out against the Trans-Pacific Partnership. Read a bit further in the Vox interview and it becomes clear that Clinton views her immigration stance as, in some sense, a protectionist measure designed to impede the outsourcing of jobs: I would add that one of the biggest complaints I hear around the country is how callous and insensitive American corporations have become to American workers who have skills that are ones that should make them employable [emphasis added]. The many stories of people training their replacements from some foreign country are heartbreaking, and it is obviously a cost-cutting measure to be able to pay people less than you would pay an American worker. . . . I want to see companies have to do more to employ already qualified Americans. This is more nefarious that it seems, or than it would be if Clinton were consistent in her protectionism. She doesn’t like foreign workers coming and taking high-skilled American jobs, jobs held by people who “have skills that are ones that should make them employable.” Jobs held, perhaps, by the sort of people who voted for her. The sort of people whose donations fill her campaign’s coffers. For Clinton, high-skilled jobs should — for some reason — fall into the category of jobs worth protecting. If there exists an American with the requisite skills for such a job, he should be hired and certainly shouldn’t be forced to train his own replacement. But she doesn’t maintain the same stance for unskilled jobs. Maybe this is urban disdain for unskilled workers; maybe it’s because blue-collar Americans weren’t part of the coalition that helped her beat Sanders and won’t be part of the coalition that tries to help her beat Trump. In either case, it’s a sign that Clinton does not view all jobs equally, and for reasons that aren’t entirely savory, besides. There are cultural consequences to this political stance. The jobs of the working class, the unskilled workers who have already suffered most from the effects of globalization, are viewed as far less important than those of their Silicon Valley compatriots and the supposed “rights” of people who have come to this country through a subversion of the law. This stance is likely only to make the divide between urban cultural elites and disaffected post-industrial nationalists worse. In a sense, it’s also a reminder that progressive leaders have long paid mere lip service to the class struggle that is ostensibly a core tenet of their politics. Give Clinton credit for this much, however: At least we know where her priorities lie.
+			"
+		}
+	]
+}
