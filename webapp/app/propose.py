@@ -52,6 +52,9 @@ def conclude(dbconn, uid):
     votes = [float(i) for i in dblink.getUserVotes(dbconn, uid)]
     v_avg = sum(votes) / len(votes)
     print("<h3>Your vote scores are : " + ",".join([str(int(v)) for v in votes]) + "</h3>")
+    print("<h4>The meaning of these scores are : 0 is for an article speaking of the Democrat party with a negative sentiment, \
+        1 for the same party with a positive sentiment, 2 for the Republican party with a positive sentiment and 3 for the \
+        Republican party with a negative sentiment.</h4>")
     # Check for the absence of major deviations (>= 0.5)
     voted = [False, False, False, False]
     for v in votes:
@@ -61,6 +64,6 @@ def conclude(dbconn, uid):
     nodev = (voted[0] and voted[2]) or (voted[1] and voted[3])
     
     if nodev:
-        print("<h2>You seem to be victim of a closed circle effect...</h2>")
+        print("<h2>You seem to be victim of an echo chamber...</h2>")
     else:
         print("<h2>You seem to consider multiple opinion lines!</h2>")
