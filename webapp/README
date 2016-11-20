@@ -1,0 +1,7 @@
+In order to run the "Echo Chamber Analysis" part of the project, simply
+run the server script from this directory : ./server.py.
+
+You need Python 3 and SQLite for this to work.
+
+Once the server is running, go to http://127.0.0.1:3615/ if it doesn't
+automatically open. Enjoy !
